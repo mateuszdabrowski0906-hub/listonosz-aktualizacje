@@ -1,0 +1,36 @@
+{
+  "app": "listonosz",
+  "version": "1.1.0",
+  "released": "2026-11-18",
+  "notes": [
+    "Automatyczne aktualizacje — program sam pobiera nowe wersje i instaluje je jednym kliknięciem.",
+    "Podpisy ze zdjęciem albo logo: kilka szablonów, podgląd na żywo, wybór podpisu dla klienta.",
+    "Lepszy odczyt przelewów z Optimy: zaliczki PIT-36L (PPL) i przelewy ZUS bez numeru rachunku.",
+    "Rodzaj przelewu rozpoznawany też po słowach w nazwie pliku (np. „PrzelewDochodowy”, „PrzelewZUS”).",
+    "Nazwę przelewu zmienisz jednym kliknięciem na karcie przelewu.",
+    "Sortowanie listy klientów: zaznaczeni najpierw, po nazwie albo po stanie."
+  ],
+  "file": {
+    "name": "Listonosz-Instalator-1.1.0.exe",
+    "size": 106059406,
+    "sha256": "4ed1be522d0866cafd583a2ca5a339a73ee18aca8e899cf6680f2575a0e23b72",
+    "parts": [
+      {
+        "url": "https://raw.githubusercontent.com/mateuszdabrowski0906-hub/listonosz-aktualizacje/wydania/Listonosz-Instalator-1.1.0.exe.001",
+        "size": 47185920,
+        "sha256": "591e4d9fe84b3481b31df1ca62abb8722d559000c306e953b363705969462afe"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateuszdabrowski0906-hub/listonosz-aktualizacje/wydania/Listonosz-Instalator-1.1.0.exe.002",
+        "size": 47185920,
+        "sha256": "6c17da3faeb74ce02658d674ec0c618a907469dc2f609147ce716144a5c42f88"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateuszdabrowski0906-hub/listonosz-aktualizacje/wydania/Listonosz-Instalator-1.1.0.exe.003",
+        "size": 11687566,
+        "sha256": "07b2c0706a00323523b4ec6657a7c2fa34da94d10f579c36b2b76c5302b48151"
+      }
+    ]
+  },
+  "sig": "-9V6m47V6n6TXnwtj5lRrbB_QKx5hnE1681MrP0OzbBjTfpUEJ-T71W33W4IyqFmVbq-5xHWVcjtUUYbcxt5Cw"
+}
